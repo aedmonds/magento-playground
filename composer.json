@@ -1,0 +1,11 @@
+{
+    "repositories": [{
+        "type": "composer",
+        "url": "http://packages.firegento.com"
+    }],
+    "require": {
+    },
+    "extra": {
+        "magento-root-dir": "public"
+    }
+}
